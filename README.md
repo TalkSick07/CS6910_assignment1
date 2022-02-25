@@ -1,2 +1,2 @@
-# CS6910_DL_Assignment_1
+# CS6910_assignment1
 Feed Forward Neural Network
