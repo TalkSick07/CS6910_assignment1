@@ -3,6 +3,7 @@ This project is about building a feed forward neural network to be used to class
 The dataset has 70000 examples in total. Each example belongs to one 10 classes - from 0 to 9.
 For training, validation and testing 54000, 6000 and 10000 examples are used respectively.
 
+The shape of each image is 28 x 28, it was flattened to the shape of 784 x 1.
 The activation functions used in the project are sigmoid, relu and tanh. For the output layer, softmax function is used to represent the probabilites of an image as belonging to all the classes. The class with the highest probability is conisdered as the predicted class. All the above functions have been defined in the code alongwith the codes for their derivatives.
 
 We have also defined a function called Loss_Func which can calculate loss by two methods - cross-entropy and squared error.
