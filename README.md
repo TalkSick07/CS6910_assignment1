@@ -1,4 +1,4 @@
-# CS6910_assignment1
+# FFNN based Image Classifier
 This project is about building a feed forward neural network to be used to classify the dataset of the FASHION_MNIST dataset.
 The dataset has 70000 examples in total. Each example belongs to one 10 classes - from 0 to 9.
 For training, validation and testing 54000, 6000 and 10000 examples are used respectively.
